@@ -1,9 +1,9 @@
-
+```
 git clone git@github.com:dchahla/blur-admin.git
 npm install
 bower install
 gulp serve
-
+```
 
 ## Features
 * Responsive layout
