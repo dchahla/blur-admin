@@ -1,7 +1,5 @@
 
 
-
-
 ## Features
 * Responsive layout
 * High resolution
@@ -13,6 +11,9 @@
 * Charts (amChart, Chartist, Chart.js, Morris)
 * Maps (Google, Leaflet, amMap)
 * etc
+
+
+Credit with :heart: by [Akveo team]
 
 License
 -------------
